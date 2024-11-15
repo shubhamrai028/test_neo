@@ -1,2 +1,2 @@
 # test_neo
-django aws deploy
+django aws deploy test
